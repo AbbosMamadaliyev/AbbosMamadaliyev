@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abbos</h1>
 
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
@@ -42,3 +42,10 @@
     <img src="https://komarev.com/ghpvc/?username=AbbosMamadaliyev">
 </a>
 <a href="https://github.com/AbbosMamadaliyev?tab=followers"><img src="https://img.shields.io/github/followers/AbbosMamadaliyev?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+## 👍 You can contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/abbos-mamadaliyev-bb44b4200/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/m_abbos)
