@@ -43,7 +43,6 @@
 </a>
 <a href="https://github.com/AbbosMamadaliyev?tab=followers"><img src="https://img.shields.io/github/followers/AbbosMamadaliyev?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Abbos's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbosMamadaliyev&show_icons=true&theme=radical)
 
 
 
